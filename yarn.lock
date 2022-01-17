@@ -5706,10 +5706,10 @@ w3c-xmlserializer@^2.0.0:
   dependencies:
     xml-name-validator "^3.0.0"
 
-wabt@^1.0.23:
-  version "1.0.24"
-  resolved "https://registry.yarnpkg.com/wabt/-/wabt-1.0.24.tgz#c02e0b5b4503b94feaf4a30a426ef01c1bea7c6c"
-  integrity sha512-8l7sIOd3i5GWfTWciPL0+ff/FK/deVK2Q6FN+MPz4vfUcD78i2M/49XJTwF6aml91uIiuXJEsLKWMB2cw/mtKg==
+wabt@^1.0.25:
+  version "1.0.26"
+  resolved "https://registry.yarnpkg.com/wabt/-/wabt-1.0.26.tgz#20ddb3fd56943bd091fc8be13de4716397b2bdd5"
+  integrity sha512-TBwmB8mOZ77B2LkpRPcrEwvh2NC/iFuhqPnztymPUyXNYrlGOaWo6sHwCOsLmAkhZijfaUjTh+Qewt+1lq3uTQ==
 
 wait-on@^6.0.0:
   version "6.0.0"
