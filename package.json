@@ -99,7 +99,7 @@
         "fs-extra": "10.0.0",
         "glob": "7.2.0",
         "node-dir": "0.1.17",
-        "uglify-es": "3.3.9",
+        "uglify-es": "3.3.10",
         "wabt": "^1.0.23"
     },
     "resolutions": {
